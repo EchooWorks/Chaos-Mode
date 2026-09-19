@@ -75,11 +75,6 @@ scoreboard objectives remove lag_target
 scoreboard objectives remove luckyblock
 scoreboard objectives remove luckyblock_mod
 
-scoreboard objectives remove chaos_elite_mob
-scoreboard objectives remove chaos_elite_mob_xpos
-scoreboard objectives remove chaos_elite_mob_zpos
-scoreboard objectives remove chaos_elite_mob_helmet
-
 title @a actionbar [{"text":"Chaos pack disabled","color":"green"}]
 
 schedule clear chaos:timer/count

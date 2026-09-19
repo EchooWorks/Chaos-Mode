@@ -5,4 +5,4 @@ execute at @a run playsound minecraft:block.fire.extinguish master @a ~ ~ ~ 1000
 
 weather thunder
 
-function chaos:events/acid_storm_effect
+function chaos:events/acid_weather/acid_storm_effect

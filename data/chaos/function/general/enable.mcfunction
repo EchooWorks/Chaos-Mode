@@ -77,9 +77,4 @@ scoreboard objectives add lag_target dummy
 scoreboard objectives add luckyblock minecraft.mined:minecraft.lodestone luckyblock
 scoreboard objectives add luckyblock_mod dummy
 
-scoreboard objectives add chaos_elite_mob dummy
-scoreboard objectives add chaos_elite_mob_xpos dummy
-scoreboard objectives add chaos_elite_mob_zpos dummy
-scoreboard objectives add chaos_elite_mob_helmet dummy
-
 title @a actionbar [{"text":"Chaos pack enabled","color":"green"}]
