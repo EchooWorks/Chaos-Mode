@@ -1,0 +1,1 @@
+scoreboard players set chaos advance_weather 0

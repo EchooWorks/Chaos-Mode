@@ -1,0 +1,2 @@
+execute if score chaos advance_weather matches 1 run function chaos:events/gamerules/advance_weather/off
+execute if score chaos advance_weather matches 0 run function chaos:events/gamerules/advance_weather/on

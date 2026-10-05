@@ -1,0 +1,1 @@
+scoreboard players set chaos drowning_damage 0

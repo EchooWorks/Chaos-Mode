@@ -1,0 +1,2 @@
+execute if score chaos drowning_damage matches 1 run function chaos:events/gamerules/drowning_damage/off
+execute if score chaos drowning_damage matches 0 run function chaos:events/gamerules/drowning_damage/on

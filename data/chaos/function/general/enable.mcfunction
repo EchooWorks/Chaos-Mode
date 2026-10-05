@@ -74,7 +74,6 @@ scoreboard objectives add player_size dummy
 scoreboard objectives add time_out dummy
 scoreboard objectives add lag_target dummy
 
-scoreboard objectives add luckyblock minecraft.mined:minecraft.lodestone luckyblock
-scoreboard objectives add luckyblock_mod dummy
+function chaos:scores/create_scores
 
-title @a actionbar [{"text":"Chaos pack enabled","color":"green"}]
+title @a actionbar [{"text":"Chaos Mode enabled","color":"green"}]

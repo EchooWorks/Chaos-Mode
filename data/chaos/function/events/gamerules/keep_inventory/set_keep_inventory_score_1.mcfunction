@@ -1,0 +1,1 @@
+scoreboard players set chaos keep_inventory 1

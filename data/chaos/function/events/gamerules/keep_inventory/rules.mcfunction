@@ -1,0 +1,2 @@
+execute if score chaos keep_inventory matches 1 run function chaos:events/gamerules/keep_inventory/off
+execute if score chaos keep_inventory matches 0 run function chaos:events/gamerules/keep_inventory/on

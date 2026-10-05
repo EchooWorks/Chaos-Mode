@@ -72,8 +72,7 @@ scoreboard objectives remove player_size
 scoreboard objectives remove time_out
 scoreboard objectives remove lag_target
 
-scoreboard objectives remove luckyblock
-scoreboard objectives remove luckyblock_mod
+function chaos:scores/remove_scores
 
 title @a actionbar [{"text":"Chaos pack disabled","color":"green"}]
 
