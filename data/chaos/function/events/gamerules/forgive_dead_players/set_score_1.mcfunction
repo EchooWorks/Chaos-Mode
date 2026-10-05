@@ -1,0 +1,1 @@
+scoreboard players set chaos forgive_dead_players 1

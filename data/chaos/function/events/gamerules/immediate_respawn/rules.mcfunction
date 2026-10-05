@@ -1,0 +1,2 @@
+execute if score chaos immediate_respawn matches 1 run function chaos:events/gamerules/immediate_respawn/off
+execute if score chaos immediate_respawn matches 0 run function chaos:events/gamerules/immediate_respawn/on

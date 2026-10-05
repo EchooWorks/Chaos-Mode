@@ -1,0 +1,2 @@
+execute if score chaos natural_health_regeneration matches 1 run function chaos:events/gamerules/natural_health_regeneration/off
+execute if score chaos natural_health_regeneration matches 0 run function chaos:events/gamerules/natural_health_regeneration/on

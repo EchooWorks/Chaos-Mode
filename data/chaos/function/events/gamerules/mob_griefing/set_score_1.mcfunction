@@ -1,0 +1,1 @@
+scoreboard players set chaos mob_griefing 1

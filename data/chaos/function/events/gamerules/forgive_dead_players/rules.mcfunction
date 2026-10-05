@@ -1,0 +1,2 @@
+execute if score chaos forgive_dead_players matches 1 run function chaos:events/gamerules/forgive_dead_players/off
+execute if score chaos forgive_dead_players matches 0 run function chaos:events/gamerules/forgive_dead_players/on

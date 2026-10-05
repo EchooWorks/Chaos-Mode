@@ -1,0 +1,1 @@
+scoreboard players set chaos pvp 1

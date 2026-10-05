@@ -1,0 +1,1 @@
+scoreboard players set chaos universal_anger 1

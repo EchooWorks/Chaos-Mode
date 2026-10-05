@@ -1,0 +1,1 @@
+scoreboard players set chaos fall_damage 1

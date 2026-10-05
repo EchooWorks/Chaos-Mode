@@ -1,0 +1,1 @@
+scoreboard players set chaos fire_damage 1

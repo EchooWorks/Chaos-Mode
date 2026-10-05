@@ -1,0 +1,2 @@
+execute if score chaos universal_anger matches 1 run function chaos:events/gamerules/universal_anger/off
+execute if score chaos universal_anger matches 0 run function chaos:events/gamerules/universal_anger/on

@@ -1,0 +1,1 @@
+scoreboard players set chaos immediate_respawn 0

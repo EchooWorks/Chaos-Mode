@@ -1,0 +1,1 @@
+scoreboard players set chaos natural_health_regeneration 1

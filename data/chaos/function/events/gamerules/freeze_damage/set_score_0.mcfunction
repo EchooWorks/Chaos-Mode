@@ -1,0 +1,1 @@
+scoreboard players set chaos freeze_damage 0
