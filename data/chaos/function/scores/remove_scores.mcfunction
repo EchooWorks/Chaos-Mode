@@ -12,3 +12,5 @@ scoreboard objectives remove natural_health_regeneration
 scoreboard objectives remove player_sleeping_percentage
 scoreboard objectives remove pvp
 scoreboard objectives remove universal_anger
+
+scoreboard objectives remove fling_player_direction

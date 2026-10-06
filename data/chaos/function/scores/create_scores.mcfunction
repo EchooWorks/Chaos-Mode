@@ -13,4 +13,6 @@ scoreboard objectives add player_sleeping_percentage dummy
 scoreboard objectives add pvp dummy
 scoreboard objectives add universal_anger dummy
 
+scoreboard objectives add fling_player_direction dummy
+
 function chaos:scores/initialize_scores

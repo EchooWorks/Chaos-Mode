@@ -10,5 +10,5 @@ scoreboard players set @a invulerable 0
 
 execute at @a run playsound minecraft:block.note_block.bit master @a ~ ~ ~ 100000000000000000000 2 
 
-function chaos:events/hungry_slime_grow
+function chaos:events/hungry_slime/hungry_slime_grow
 function chaos:timer/count

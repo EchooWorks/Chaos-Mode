@@ -1,1 +1,0 @@
-execute store result score chaos mod run random value 1..42
