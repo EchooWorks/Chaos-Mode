@@ -14,3 +14,4 @@ scoreboard objectives remove pvp
 scoreboard objectives remove universal_anger
 
 scoreboard objectives remove fling_player_direction
+scoreboard objectives remove auto_jump_duration

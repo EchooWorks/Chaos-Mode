@@ -77,3 +77,4 @@ function chaos:scores/remove_scores
 title @a actionbar [{"text":"Chaos pack disabled","color":"green"}]
 
 schedule clear chaos:timer/count
+schedule clear chaos:tick/1_sec_tick

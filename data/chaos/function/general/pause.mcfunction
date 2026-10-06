@@ -6,3 +6,4 @@ execute at @a run playsound minecraft:block.note_block.bit master @a ~ ~ ~ 10000
 bossbar set minecraft:0 name "Chaos - Paused"
 
 schedule clear chaos:timer/count
+schedule clear chaos:tick/1_sec_tick

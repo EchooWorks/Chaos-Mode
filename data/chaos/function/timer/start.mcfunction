@@ -12,3 +12,5 @@ execute at @a run playsound minecraft:block.note_block.bit master @a ~ ~ ~ 10000
 
 function chaos:events/hungry_slime/hungry_slime_grow
 function chaos:timer/count
+
+function chaos:tick/1_sec_tick

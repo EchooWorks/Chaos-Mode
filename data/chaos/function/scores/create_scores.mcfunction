@@ -14,5 +14,6 @@ scoreboard objectives add pvp dummy
 scoreboard objectives add universal_anger dummy
 
 scoreboard objectives add fling_player_direction dummy
+scoreboard objectives add auto_jump_duration dummy
 
 function chaos:scores/initialize_scores

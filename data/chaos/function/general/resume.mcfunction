@@ -13,3 +13,5 @@ execute if score chaos chaos_level matches 7 run bossbar set minecraft:0 name "C
 
 schedule function chaos:timer/count 1s
 scoreboard players add chaos timer 5
+
+function chaos:tick/1_sec_tick
