@@ -1,0 +1,2 @@
+execute if predicate chaos:chaos_level/temp_chaos_level_change_clear_condition run function chaos:events/chaos_level/temp_chaos_level_change/clear
+execute if predicate chaos:chaos_level/temp_chaos_level_change_tick_condition run scoreboard players remove chaos temp_chaos_level_duration 1

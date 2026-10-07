@@ -5,7 +5,6 @@ scoreboard objectives remove mod
 scoreboard objectives remove pet
 scoreboard objectives remove rarity
 scoreboard objectives remove firestorm_timer
-scoreboard objectives remove chaos_level
 scoreboard objectives remove food_rain_time
 scoreboard objectives remove temp_level_seven
 scoreboard objectives remove anvilrain_timer

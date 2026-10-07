@@ -7,7 +7,6 @@ scoreboard objectives add mod dummy
 scoreboard objectives add pet dummy
 scoreboard objectives add rarity dummy
 scoreboard objectives add firestorm_timer dummy
-scoreboard objectives add chaos_level dummy
 scoreboard objectives add food_rain_time dummy
 scoreboard objectives add temp_level_seven dummy
 scoreboard objectives add anvilrain_timer dummy

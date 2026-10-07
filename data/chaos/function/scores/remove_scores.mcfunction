@@ -1,3 +1,17 @@
+# Attribute event scores
+scoreboard objectives remove auto_jump_duration
+scoreboard objectives remove player_size_duration
+
+# Chaos level scores
+scoreboard objectives remove chaos_level
+scoreboard objectives remove temp_chaos_level
+scoreboard objectives remove return_chaos_level
+scoreboard objectives remove temp_chaos_level_duration
+
+# Fling player event scores
+scoreboard objectives remove fling_player_direction
+
+# Gamerule event scores
 scoreboard objectives remove advance_time
 scoreboard objectives remove advance_weather
 scoreboard objectives remove drowning_damage
@@ -13,5 +27,3 @@ scoreboard objectives remove player_sleeping_percentage
 scoreboard objectives remove pvp
 scoreboard objectives remove universal_anger
 
-scoreboard objectives remove fling_player_direction
-scoreboard objectives remove auto_jump_duration

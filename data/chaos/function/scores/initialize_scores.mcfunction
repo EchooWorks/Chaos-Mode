@@ -1,3 +1,7 @@
+# Chaos level scores
+scoreboard players set chaos chaos_level 3
+
+# Gamerule event scores
 scoreboard players set chaos advance_time 1
 scoreboard players set chaos advance_weather 1
 scoreboard players set chaos drowning_damage 1
