@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:all_of",
+  "terms": [
+    {
+      "type": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "minecraft:entity_tags": {
+          "all_of": [
+            "death_cube"
+          ]
+        }
+      }
+    },
+    {
+      "type": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "cube_state": 6
+      }
+    }
+  ]
+}

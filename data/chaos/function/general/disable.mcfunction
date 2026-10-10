@@ -62,8 +62,6 @@ scoreboard objectives remove ate_cookie
 scoreboard objectives remove ate_pumpkin_pie
 scoreboard objectives remove ate_melon
 
-scoreboard objectives remove cubes_score
-
 scoreboard objectives remove dont_step_on
 scoreboard objectives remove safe_block
 

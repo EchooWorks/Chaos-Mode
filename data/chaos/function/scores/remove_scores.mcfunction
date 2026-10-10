@@ -8,6 +8,9 @@ scoreboard objectives remove temp_chaos_level
 scoreboard objectives remove return_chaos_level
 scoreboard objectives remove temp_chaos_level_duration
 
+# Cubes of Death scores
+scoreboard objectives remove cube_state
+
 # Fling player event scores
 scoreboard objectives remove fling_player_direction
 

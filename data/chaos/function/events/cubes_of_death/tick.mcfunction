@@ -1,0 +1,1 @@
+execute as @e[tag=death_cube] run function chaos:events/cubes_of_death/state_change

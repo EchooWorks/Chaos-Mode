@@ -1,0 +1,13 @@
+execute at @s run fill ~-3 ~5 ~-3 ~3 ~5 ~3 minecraft:yellow_stained_glass replace minecraft:green_stained_glass
+execute at @s run fill ~-3 ~4 ~3 ~3 ~4 ~3 minecraft:yellow_stained_glass replace minecraft:green_stained_glass
+execute at @s run fill ~-3 ~4 ~-3 ~3 ~4 ~-3 minecraft:yellow_stained_glass replace minecraft:green_stained_glass
+execute at @s run fill ~-3 ~4 ~3 ~-3 ~4 ~-3 minecraft:yellow_stained_glass replace minecraft:green_stained_glass
+execute at @s run fill ~3 ~4 ~3 ~3 ~4 ~-3 minecraft:yellow_stained_glass replace minecraft:green_stained_glass
+execute at @s run fill ~-3 ~3 ~3 ~3 ~3 ~3 minecraft:yellow_stained_glass replace minecraft:green_stained_glass
+execute at @s run fill ~-3 ~3 ~-3 ~3 ~3 ~-3 minecraft:yellow_stained_glass replace minecraft:green_stained_glass
+execute at @s run fill ~-3 ~3 ~3 ~-3 ~3 ~-3 minecraft:yellow_stained_glass replace minecraft:green_stained_glass
+execute at @s run fill ~3 ~3 ~3 ~3 ~3 ~-3 minecraft:yellow_stained_glass replace minecraft:green_stained_glass
+execute at @s run fill ~-3 ~2 ~3 ~3 ~2 ~3 minecraft:yellow_stained_glass replace minecraft:air
+execute at @s run fill ~-3 ~2 ~-3 ~3 ~2 ~-3 minecraft:yellow_stained_glass replace minecraft:air
+execute at @s run fill ~-3 ~2 ~3 ~-3 ~2 ~-3 minecraft:yellow_stained_glass replace minecraft:air
+execute at @s run fill ~3 ~2 ~3 ~3 ~2 ~-3 minecraft:yellow_stained_glass replace minecraft:air

@@ -1,0 +1,1 @@
+execute at @s run fill ~-3 ~5 ~-3 ~3 ~-1 ~3 minecraft:air replace minecraft:bedrock

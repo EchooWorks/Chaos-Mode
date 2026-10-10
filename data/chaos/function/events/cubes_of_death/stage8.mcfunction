@@ -1,0 +1,1 @@
+execute at @s run kill @a[dx=4,dy=4,dz=4,scores={invulerable=0}]

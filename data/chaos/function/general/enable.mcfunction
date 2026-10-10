@@ -64,8 +64,6 @@ scoreboard objectives add ate_cookie minecraft.used:minecraft.cookie
 scoreboard objectives add ate_pumpkin_pie minecraft.used:minecraft.pumpkin_pie
 scoreboard objectives add ate_melon_slice minecraft.used:minecraft.melon_slice
 
-scoreboard objectives add cubes_score dummy
-
 scoreboard objectives add dont_step_on dummy
 scoreboard objectives add safe_block dummy
 

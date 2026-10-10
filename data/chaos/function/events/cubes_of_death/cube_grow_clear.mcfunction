@@ -1,1 +1,0 @@
-schedule clear chaos:events/cubes_of_death/cube_grow 

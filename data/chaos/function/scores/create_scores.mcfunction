@@ -8,6 +8,9 @@ scoreboard objectives add temp_chaos_level dummy
 scoreboard objectives add return_chaos_level dummy
 scoreboard objectives add temp_chaos_level_duration dummy
 
+# Cubes of Death scores
+scoreboard objectives add cube_state dummy
+
 # Fling player event scores
 scoreboard objectives add fling_player_direction dummy
 
