@@ -30,4 +30,10 @@ scoreboard objectives add player_sleeping_percentage dummy
 scoreboard objectives add pvp dummy
 scoreboard objectives add universal_anger dummy
 
+# Gamemode event scores
+scoreboard objectives add adventure_mode_duration dummy
+
+# Hungry Slime event scores
+scoreboard objectives add hungry_slime_size dummy
+
 function chaos:scores/initialize_scores

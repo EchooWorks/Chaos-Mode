@@ -1,4 +1,4 @@
-schedule clear chaos:events/hungry_slime/hungry_slime_size_increase
+
 
 execute at @e[type=minecraft:slime,name="Hungry Hungry Slime",limit=1] run summon minecraft:slime ~ ~ ~ {CustomName:"Slime Blob",Size:1}
 execute at @e[type=minecraft:slime,name="Hungry Hungry Slime",limit=1] run summon minecraft:slime ~ ~ ~ {CustomName:"Slime Blob",Size:1}

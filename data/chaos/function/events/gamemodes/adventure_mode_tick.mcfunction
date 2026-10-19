@@ -1,0 +1,2 @@
+execute as @a if predicate chaos:gamemodes/adventure_mode_tick_condition run scoreboard players remove @s adventure_mode_duration 1
+execute as @a if predicate chaos:gamemodes/adventure_clear_condition run function chaos:events/gamemodes/survival_mode

@@ -30,3 +30,8 @@ scoreboard objectives remove player_sleeping_percentage
 scoreboard objectives remove pvp
 scoreboard objectives remove universal_anger
 
+# Gamemode event scores
+scoreboard objectives remove adventure_mode_duration
+
+# Hungry slime event scores
+scoreboard objectives remove hungry_slime_size

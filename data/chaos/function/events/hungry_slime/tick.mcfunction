@@ -1,0 +1,1 @@
+execute as @e[tag=hungry_slime] run function chaos:events/hungry_slime/grow
