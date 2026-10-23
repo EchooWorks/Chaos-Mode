@@ -1,0 +1,58 @@
+{
+  "type": "chest",
+  "pools": [
+    {
+      "rolls": {
+		  "type": "uniform",
+		  "min": 64,
+		  "max": 512
+	  },
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:cod",
+          "modifier": [
+            {
+              "type": "set_count",
+              "count": 1
+            }
+          ]
+        },     
+		{
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:salmon",
+          "modifier": [
+            {
+              "type": "set_count",
+              "count": 1
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:tropical_fish",
+          "modifier": [
+            {
+              "type": "set_count",
+              "count": 1
+            }
+          ]
+        },
+		{
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:pufferfish",
+          "modifier": [
+            {
+              "type": "set_count",
+              "count": 1
+            }
+          ]
+        }		
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-execute store result score chaos mod run random value 1..11
+execute store result score chaos mod run random value 1..10
 
 execute if score chaos timer matches 0 run execute if score chaos mod matches 1 run function chaos:events/gamemodes/adventure_mode
 execute if score chaos timer matches 0 run execute if score chaos mod matches 2 run function chaos:events/potion_effects/i_cant_see
@@ -9,8 +9,7 @@ execute if score chaos timer matches 0 run execute if score chaos mod matches 6 
 execute if score chaos timer matches 0 run execute if score chaos mod matches 7 run function chaos:events/world/smite_random_player
 execute if score chaos timer matches 0 run execute if score chaos mod matches 8 run execute as @r at @s run function chaos:events/mobs/the_child/the_child
 execute if score chaos timer matches 0 run execute if score chaos mod matches 9 run function chaos:events/world/dig_hole
-execute if score chaos timer matches 0 run execute if score chaos mod matches 10 run function chaos:events/items/many_fish
-execute if score chaos timer matches 0 run execute if score chaos mod matches 11 run function chaos:events/mobs/johnny
+execute if score chaos timer matches 0 run execute if score chaos mod matches 10 run function chaos:events/mobs/johnny
 
 
 

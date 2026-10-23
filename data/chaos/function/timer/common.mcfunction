@@ -1,4 +1,4 @@
-execute store result score chaos mod run random value 1..38
+execute store result score chaos mod run random value 1..39
 
 execute if score chaos timer matches 0 run execute if score chaos mod matches 1 run function chaos:events/potion_effects/sugar_rush
 execute if score chaos timer matches 0 run execute if score chaos mod matches 2 run function chaos:events/pranks/interest_income
@@ -7,7 +7,7 @@ execute if score chaos timer matches 0 run execute if score chaos mod matches 4 
 execute if score chaos timer matches 0 run execute if score chaos mod matches 5 run function chaos:events/mobs/panda
 execute if score chaos timer matches 0 run execute if score chaos mod matches 6 run function chaos:events/world/advance_time
 execute if score chaos timer matches 0 run execute if score chaos mod matches 7 run function chaos:events/world/clear_skies
-execute if score chaos timer matches 0 run execute if score chaos mod matches 8 run function chaos:events/items/fish
+execute if score chaos timer matches 0 run execute if score chaos mod matches 8 run function chaos:events/items/fish/start
 execute if score chaos timer matches 0 run execute if score chaos mod matches 9 run function chaos:events/mobs/bees/bees
 execute if score chaos timer matches 0 run execute if score chaos mod matches 10 run execute as @r at @s run function chaos:events/mobs/wolf_pack
 execute if score chaos timer matches 0 run execute if score chaos mod matches 11 run execute as @r at @s run function chaos:events/mobs/goats
@@ -38,7 +38,7 @@ execute if score chaos timer matches 0 run execute if score chaos mod matches 35
 execute if score chaos timer matches 0 run execute if score chaos mod matches 36 run function chaos:events/fling_player/start
 execute if score chaos timer matches 0 run execute if score chaos mod matches 37 run function chaos:events/attributes/auto_jump/start
 execute if score chaos timer matches 0 run execute if score chaos mod matches 38 run function chaos:events/attributes/player_size/start
-
+execute if score chaos timer matches 0 run execute if score chaos mod matches 39 run function chaos:events/pranks/huh
 
 
 
